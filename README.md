@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Testimonials Grid Section](https://your-solution-url.com)
+- Solution URL: [Testimonials Grid Section]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/testimonials-grid-section-scss-grid-XUlL59kqNb))
 - Live Site URL: [Testimonials Grid Section](https://kaiens-lab.github.io/Testimonioals-Grid-Section/)
 
 ## My process
